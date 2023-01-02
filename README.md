@@ -15,3 +15,4 @@ Me First Commit!
 11. *_override.tf.json - все файлы в названиях которых встречается конструкция "любые символы в любом количестве_override.tf.json" в папке с файлом .gitignore
 12. .terraformrc - файл .terraformrc в папке с файлом .gitignore
 13. terraform.rc - файл terraform.rc в папке с файлом .gitignore
+New line in branch fix
