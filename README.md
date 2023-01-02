@@ -16,3 +16,4 @@ Me First Commit!
 12. .terraformrc - файл .terraformrc в папке с файлом .gitignore
 13. terraform.rc - файл terraform.rc в папке с файлом .gitignore
 New line in branch fix
+New line change with IDE PyCharm
